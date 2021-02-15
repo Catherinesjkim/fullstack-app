@@ -1,4 +1,4 @@
-## Part Time Larry's Full Stack Trading App Project. It's so much fun!
+# Part Time Larry's Full Stack Trading App Project. It's so much fun!
 
 https://hackingthemarkets.com/full-stack-trading-app-tutorial-part-03-python-sql-and-stock-universes/
 
@@ -19,7 +19,7 @@ Place trades based on the price action, including entry and exit conditions
 quick scalp
 
 
-# New Closing Highs - Store in a db
+## New Closing Highs - Store in a db
 DLB: Dolby
 IQIYI: Netflix of China
 MCHI:
