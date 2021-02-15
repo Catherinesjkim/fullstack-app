@@ -1,3 +1,7 @@
+Part Time Larry's Full Stack Trading App Project. It's so much fun!
+
+https://hackingthemarkets.com/full-stack-trading-app-tutorial-part-03-python-sql-and-stock-universes/
+
 ---
 
 Add charting widget - TradingView - requires exchange
